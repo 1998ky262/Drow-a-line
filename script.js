@@ -24,5 +24,8 @@ line(X1,Y1,X2,Y2);
 point++;
 }
 x=x*1.1
+  if(500<x){
+x=1;
+}
 }
 setInterval(animation,10);
