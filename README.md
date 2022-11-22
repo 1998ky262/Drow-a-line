@@ -1,2 +1,2 @@
-# animation
-Animation in JavaScript HTML CSS!
+# Draw a line
+Draw a line in JavaScript HTML CSS!
